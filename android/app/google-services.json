@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "578437623482",
+    "project_id": "first-ecom-62762",
+    "storage_bucket": "first-ecom-62762.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578437623482:android:04741e0aceacb2f0541c83",
+        "android_client_info": {
+          "package_name": "com.example.ecommerceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578437623482-pl05tme2t9def1dcdd1pq1dki7oqfg22.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnYKebXBC0Ur5wx1PhHr3AEgHB27leH18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578437623482-pl05tme2t9def1dcdd1pq1dki7oqfg22.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
